@@ -18,17 +18,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>SnapStyle - Aesthetic Screenshots ✨</title>
+        <title>SnapStyle - Beautiful Screenshots ✨</title>
         <link rel="icon" href="/logo.png" />
-        <meta name="title" content="SnapStyle - Aesthetic Screenshots ✨" />
-        <meta
-          name="description"
-          content="SnapStyle converts your boring screenshots into aesthetic and beautiful screenshots. Upto 8K download, Custom & AI Background, Shadows, Corners & more."
-        />
-        <meta property="og:title" content="SnapStyle - Beautiful Screenshots ✨" />
-        <meta property="og:image" content="https://spiffy.itsvg.in/og.png" />
-        <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://spiffy.itsvg.in/" />
         {/* PWA */}
         <link rel="manifest" href="/manifest.json" />
       </Head>
