@@ -63,7 +63,7 @@ export default function Header() {
         </div>
 
         {showMoreLinks && (
-          <div className="flex flex-col space-y-2 pt-[250px]">
+          <div className="flex flex-col space-y-0 pt-[180px]">
             <a
               href="/FakeTweet.html"
               className="flex justify-center items-center p-3 px-6 bg-green-300 text-yellow-900 font-bold rounded-sm shadow-lg hover:shadow-yellow-300/30 sm:hover:scale-[0.75] transition-all ease-in-out duration-100 scale-75 outline-none ring ring-yellow-900 dark:ring-0"
